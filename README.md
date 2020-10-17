@@ -1,4 +1,4 @@
-<!--### Hi there 👋
+  <!--### Hi there 👋
 
 
 **r12habh/r12habh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Stats about me
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default)
+![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default&theme=vue)
 
 <!--#### 🧿 My YouTube Channels : 
 
