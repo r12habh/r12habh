@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="">Hi there👋 , I'm Rishabh Singh</h1> 
-<h3>I am a "JavaScript Developer".</h3>
+<!-- <h3>I am a "JavaScript Developer".</h3> -->
 
 **Languages and Tools:**  
 
@@ -29,11 +29,6 @@ Here are some ideas to get you started:
 ### Stats about me
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r12habh&layout=compact&theme=radical" />
-</a>
 
 <!--#### 🧿 My YouTube Channels : 
 
