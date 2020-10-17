@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r12habh&layout=compact&theme=radical" />
+</a>
+
 <!--#### 🧿 My YouTube Channels : 
 
 👨🏻‍💻 I am known as **Friendly Developer** for posting technical content.
