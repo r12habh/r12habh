@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="">Hi there👋 , I'm Rishabh Singh</h1> 
+
+### Hi there <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm [Rishabh!](). 
+
 <!-- <h3>I am a "JavaScript Developer".</h3> -->
 
 **Languages and Tools:**  
