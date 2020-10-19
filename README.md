@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm [Rishabh!](https://www.linkedin.com/in/singh-rishabh/)
+## Hi there <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm [Rishabh!](https://www.linkedin.com/in/singh-rishabh/)
 
 <!-- <h3>I am a "JavaScript Developer".</h3> -->
 
----
 
 ### Connect with me:
 
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-**Languages and Tools:**  
+###**Languages and Tools:**  
 
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
