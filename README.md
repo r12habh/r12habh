@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Stats about me
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default&theme=vue)
+![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default&theme=dark)
 
 <!-- [website]: # -->
 [instagram]: https://www.instagram.com/_singhrishabh_/
