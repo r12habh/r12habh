@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=r12habh)
+
 <!-- [website]: # -->
 [instagram]: https://www.instagram.com/_singhrishabh_/
 [linkedin]: https://www.linkedin.com/in/singh-rishabh/
