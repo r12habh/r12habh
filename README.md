@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi there <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm [Rishabh!](http://www.linkedin.com/in/singh-rishabh)
 
-<!-- <h3>I am a "JavaScript Developer".</h3> -->
+<h3>I am a "Python Developer".</h3>
 
 
 <!-- ### Connect with me:
