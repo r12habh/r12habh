@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=r12habh)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/r12habh?theme=dark&font=Trykker&ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/r12habh?theme=dark&font=Trykker&ext=heatmap)](https://leetcard.jacoblin.cool/r12habh?theme=dark&font=Trykker&ext=heatmap)
 
 <!-- [website]: # -->
 [instagram]: https://www.instagram.com/_singhrishabh_/
