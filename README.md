@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### Stats about me
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/r12habh?theme=dark&font=Trykker&ext=heatmap)](https://leetcode.com/r12habh/){:target="_blank"}
+[![Leetcode Stats](https://leetcard.jacoblin.cool/r12habh?theme=dark&font=Trykker&ext=heatmap)](https://leetcode.com/r12habh/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=r12habh&count_private=true&show_icons=true&layout=default&theme=dark)
 
